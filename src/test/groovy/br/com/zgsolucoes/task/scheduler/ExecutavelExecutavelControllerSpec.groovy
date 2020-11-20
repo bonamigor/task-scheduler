@@ -1,9 +1,9 @@
 package br.com.zgsolucoes.task.scheduler
 
-import grails.testing.services.ServiceUnitTest
+import grails.testing.web.controllers.ControllerUnitTest
 import spock.lang.Specification
 
-class ExecutavelCrudServiceSpec extends Specification implements ServiceUnitTest<ExecutavelCrudService>{
+class ExecutavelExecutavelControllerSpec extends Specification implements ControllerUnitTest<ExecutavelExecutavelController> {
 
     def setup() {
     }
